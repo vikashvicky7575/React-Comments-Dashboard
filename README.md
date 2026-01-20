@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Comments Application
 
 A simple and clean **ReactJS application** to fetch, display, search, paginate, add comments and stored in local storage.  
@@ -62,3 +63,6 @@ npm start
 
 ### 5.Open in browser
 http://localhost:3000
+=======
+# React-Comments-Dashboard
+>>>>>>> a0b0581d6d70a7dc9380eab7535d6d3621d94474
